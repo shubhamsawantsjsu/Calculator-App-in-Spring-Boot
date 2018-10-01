@@ -4,5 +4,3 @@ This is a calculator web application developed using Spring Boot..
 
 This application has functions like Add, Subtract, Multiply, Divide and exponent. 
 
-Feel free to clone the repository. :)
-
